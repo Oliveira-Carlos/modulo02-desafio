@@ -1,0 +1,14 @@
+ <svg alt="Logo do alpha lumen" version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 775 720" width="600" height="557">
+    <title>Novo Projeto</title>
+     <style>
+     .s0 { fill: #00ff86 } 
+     .s1 { fill: #00542c } 
+     .s2 { fill: #00ff82 } 
+     </style>
+     <path id="Forma 1" class="s0" d="m213 149l382-3-1 261-162 167-206-99z"/>
+     <path id="Camada 1" class="s1" d="m453 244l-115 77 66-146z"/>
+     <path id="Camada 2" class="s1" d="m504 394l-225 54 45-97z"/>
+     <path id="Camada 3" class="s1" d="m471 279l72 105-139-57zm3-2"/>
+     <path id="Camada 4" class="s2" d="m665 261l16-14 90 71-82 97-17-18 57-79"/>
+     <path id="Camada 5" class="s2" d="m51 330l68 81-18 25-95-111 105-70 14 16"/>
+ </svg>
